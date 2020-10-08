@@ -1,0 +1,16 @@
+{
+  "name": "jewelry-2",
+  "version": "1.0.0",
+  "description": "An online shopping for trading in jewelleries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Online",
+    "Shop",
+    "Ecommerce"
+  ],
+  "author": "Phinehas Lamptey",
+  "license": "MIT"
+}
